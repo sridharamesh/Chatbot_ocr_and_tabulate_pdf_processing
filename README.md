@@ -9,7 +9,7 @@ This project leverages OCR to extract and tabulate content from PDFs, with a cha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Chatbot_ocr_and_tabulate_pdf_processing.git
+git clone https://github.com/sridharamesh/Chatbot_ocr_and_tabulate_pdf_processing
 cd Chatbot_ocr_and_tabulate_pdf_processing
 ```
 
